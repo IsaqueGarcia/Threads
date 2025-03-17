@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ComplexCalculation.executor": "Run",
     "Application.HackersThreads.executor": "Run",
     "Application.InterruptThread.executor": "Run",
     "Application.Main.executor": "Run",
