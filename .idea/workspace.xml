@@ -41,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.HackersThreads.executor": "Run",
+    "Application.InterruptThread.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MultiExecutor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
