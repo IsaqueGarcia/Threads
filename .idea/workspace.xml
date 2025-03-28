@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="515e7e95-2e62-4e33-9c59-2c5a423f38a6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multithread/Synchronized$InventoryCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Multithread/Synchronized$InventoryCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Multithread/Synchronized.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Multithread/Synchronized.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Synchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Synchronized.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
