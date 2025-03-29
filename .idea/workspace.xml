@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="515e7e95-2e62-4e33-9c59-2c5a423f38a6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Multithread/Synchronized$InventoryCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Multithread/Synchronized$InventoryCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Multithread/Synchronized.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Multithread/Synchronized.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Synchronized.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Synchronized.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AtomicOperation.executor": "Run",
     "Application.ComplexCalculation.executor": "Run",
     "Application.HackersThreads.executor": "Run",
     "Application.InterruptThread.executor": "Run",
@@ -57,7 +55,14 @@
       <recent name="D:\Projetos\Multithread\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Synchronized">
+  <component name="RunManager" selected="Application.AtomicOperation">
+    <configuration name="AtomicOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AtomicOperation" />
+      <module name="Multithread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Synchronized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Synchronized" />
       <module name="Multithread" />
@@ -74,6 +79,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AtomicOperation" />
         <item itemvalue="Application.Synchronized" />
         <item itemvalue="Application.ThroughputHttp" />
       </list>
