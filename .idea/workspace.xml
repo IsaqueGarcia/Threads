@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="515e7e95-2e62-4e33-9c59-2c5a423f38a6" name="Changes" comment="" />
+    <list default="true" id="515e7e95-2e62-4e33-9c59-2c5a423f38a6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +35,7 @@
   "keyToString": {
     "Application.AtomicOperation.executor": "Run",
     "Application.ComplexCalculation.executor": "Run",
+    "Application.DataRace.executor": "Run",
     "Application.HackersThreads.executor": "Run",
     "Application.InterruptThread.executor": "Run",
     "Application.Main.executor": "Run",
@@ -53,9 +56,16 @@
       <recent name="D:\Projetos\Multithread\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AtomicOperation">
+  <component name="RunManager" selected="Application.DataRace">
     <configuration name="AtomicOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AtomicOperation" />
+      <module name="Multithread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataRace" />
       <module name="Multithread" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataRace" />
         <item itemvalue="Application.AtomicOperation" />
         <item itemvalue="Application.Synchronized" />
         <item itemvalue="Application.ThroughputHttp" />
