@@ -31,28 +31,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AtomicOperation.executor": "Run",
-    "Application.ComplexCalculation.executor": "Run",
-    "Application.DataRace.executor": "Run",
-    "Application.Deadlock.executor": "Run",
-    "Application.HackersThreads.executor": "Run",
-    "Application.InterruptThread.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MultiExecutor.executor": "Run",
-    "Application.ProcessingInParallel.executor": "Run",
-    "Application.Synchronized.executor": "Run",
-    "Application.ThroughputHttp.executor": "Run",
-    "Application.TryLock.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Projetos/Multithread/resources",
-    "onboarding.tips.debug.path": "D:/Projetos/Multithread/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AtomicOperation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ComplexCalculation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataRace.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Deadlock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HackersThreads.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InterruptThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiExecutor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProcessingInParallel.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Synchronized.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThroughputHttp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryLock.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Projetos/Multithread/resources&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Projetos/Multithread/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Projetos\Multithread\resources" />
