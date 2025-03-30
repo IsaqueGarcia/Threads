@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="515e7e95-2e62-4e33-9c59-2c5a423f38a6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Multithread/DataRace$SharedClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Multithread/DataRace$SharedClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataRace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataRace.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +36,7 @@
     "Application.AtomicOperation.executor": "Run",
     "Application.ComplexCalculation.executor": "Run",
     "Application.DataRace.executor": "Run",
+    "Application.Deadlock.executor": "Run",
     "Application.HackersThreads.executor": "Run",
     "Application.InterruptThread.executor": "Run",
     "Application.Main.executor": "Run",
@@ -58,7 +57,7 @@
       <recent name="D:\Projetos\Multithread\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DataRace">
+  <component name="RunManager" selected="Application.Deadlock">
     <configuration name="AtomicOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AtomicOperation" />
       <module name="Multithread" />
@@ -68,6 +67,13 @@
     </configuration>
     <configuration name="DataRace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataRace" />
+      <module name="Multithread" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Deadlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Deadlock" />
       <module name="Multithread" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Deadlock" />
         <item itemvalue="Application.DataRace" />
         <item itemvalue="Application.AtomicOperation" />
         <item itemvalue="Application.Synchronized" />
