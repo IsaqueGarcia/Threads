@@ -21,8 +21,8 @@ public class DataRace {
 
     public static class SharedClass{
 
-        private int x = 0;
-        private int y = 0;
+        private volatile int x = 0; //using volatile to prevent data race
+        private volatile int y = 0; //using volatile to prevent data race
 
         public void increment(){
             x++;
