@@ -33,6 +33,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AtomicExamples.executor": "Run",
     "Application.AtomicOperation.executor": "Run",
     "Application.Barrier.executor": "Run",
     "Application.ComplexCalculation.executor": "Run",
@@ -59,9 +60,9 @@
       <recent name="D:\Projetos\Multithread\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Barrier">
-    <configuration name="AtomicOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AtomicOperation" />
+  <component name="RunManager" selected="Application.AtomicExamples">
+    <configuration name="AtomicExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AtomicExamples" />
       <module name="Multithread" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AtomicExamples" />
         <item itemvalue="Application.Barrier" />
         <item itemvalue="Application.TryLock" />
         <item itemvalue="Application.Deadlock" />
         <item itemvalue="Application.DataRace" />
-        <item itemvalue="Application.AtomicOperation" />
       </list>
     </recent_temporary>
   </component>
